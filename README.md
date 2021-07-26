@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeepShah2511
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Magento 2
-- 💞️ I’m looking to collaborate on any virtual events and social actoivties
+- 💞️ I’m looking to collaborate on any virtual events and social activties
 - 📫 You can reach me at anytime on My Blog: http://shydeepshah9409.wordpress.com/
 
 <!---

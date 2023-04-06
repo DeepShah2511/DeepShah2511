@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning as well as developing Magento 2 Stores and Extensions
 - 💞️ I’m looking to collaborate on any virtual events and social activties
-- 📫 You can reach me at anytime on My Blog: http://shydeepshah9409.wordpress.com/
+- 📫 You can reach me at anytime on My Blog: http://getdeepshah.wordpress.com/
 
 <!---
 DeepShah2511/DeepShah2511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
